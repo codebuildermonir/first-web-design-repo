@@ -1,0 +1,12 @@
+h1{
+    color: darkorange;
+    margin: 50px;
+}
+
+p{
+    background-color: darkgray;
+    width: 40%;
+    padding: 20px;
+    margin: 30px;
+    border: 3px solid chocolate;
+}
