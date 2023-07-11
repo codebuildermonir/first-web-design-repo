@@ -213,4 +213,30 @@ body{
         margin-left: 180px;
     }
 
+    /* This is instagram section */
+
+    .instagram-heading{
+        text-align: center;
+        font-size: 40px;
+        color: #272727;
+        font-weight: 800;
+        padding: 25px 0px;
+    }
+    .instagram-description{
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        color: #2727278c;
+
+    }
+    .instagram-contain{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-around;
+        margin: 50px 40px 50px 0px;
+    
+    }
+
+
 
